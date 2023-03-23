@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jirgort McCarty Vasquez</h1>
-<h3 align="center">I am in the last year of my computer engineering degree at the Tecnologico de Costa Rica. \n I like to do sports like fishing, running, playing soccer \n I speak English and Spanishh \n I'm from Limon, Costa Rica</h3>
-
+<h3 align="center">I am in the last year of my computer engineering degree at the Tecnologico de Costa Rica.</h3>
+<h3 align="center"> I like to do sports like fishing, running, playing soccer.</h3>
+<h3 align="center">I speak English and Spanish.</h3>
+<h3 align="center">I'm from Limon, Costa Rica.</h3>
 
 
 <h3 align="left">Connect with me:</h3>
